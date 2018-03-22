@@ -1,5 +1,3 @@
-{
-marker.setIcon('http://labs.google.com/ridefinder/images/mm_20_green.png');
 
 {
    "type": "FeatureCollection",
